@@ -1,0 +1,21 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "description": "- npm install -g typescript - tsc --init - tsc - tsc -w",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetiana892/goit-typescript-hw-01.git"
+  },
+  "homepage": "https://github.com/Tetiana892/goit-typescript-hw-01#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.6"
+  }
+}
